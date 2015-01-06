@@ -1,0 +1,6 @@
+c:\users\home\documents\visual studio 2013\Projects\Bootstrap\Bootstrap\bin\Bootstrap.dll.config
+c:\users\home\documents\visual studio 2013\Projects\Bootstrap\Bootstrap\bin\Bootstrap.dll
+c:\users\home\documents\visual studio 2013\Projects\Bootstrap\Bootstrap\bin\Bootstrap.pdb
+c:\users\home\documents\visual studio 2013\Projects\Bootstrap\Bootstrap\obj\Debug\Bootstrap.csprojResolveAssemblyReference.cache
+c:\users\home\documents\visual studio 2013\Projects\Bootstrap\Bootstrap\obj\Debug\Bootstrap.dll
+c:\users\home\documents\visual studio 2013\Projects\Bootstrap\Bootstrap\obj\Debug\Bootstrap.pdb
